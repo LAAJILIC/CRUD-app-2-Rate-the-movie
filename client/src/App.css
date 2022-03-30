@@ -53,3 +53,20 @@ h1 {
   border : 4px solid rgb(1, 28, 36);
   cursor: pointer;
 }
+
+.movie-description {
+  width: 400px;
+  height: 80px;
+  margin: 20px 20px;
+  background: rgb(233, 245, 201);
+  color: rgb(1, 28, 36);
+  font-size: 20px;
+  border : 1px solid rgb(156, 116, 5);
+}
+
+.button {
+  padding: 0px 10px;
+  margin: 7px 20px;
+  cursor: pointer;
+
+}
